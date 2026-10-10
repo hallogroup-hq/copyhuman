@@ -1,7 +1,6 @@
 # CopyHuman ✍️👤
 
 > **Remove the structural fingerprint that makes narrative writing read as AI-generated.**  
-> Built on empirical findings from **StoryScope** (*University of Maryland & Google DeepMind; COLM 2026*).
 
 [![Skills Ecosystem](https://img.shields.io/badge/skills.sh-copyhuman-blue.svg)](https://skills.sh)
 [![Compatible with](https://img.shields.io/badge/agents-Claude%20%7C%20Codex%20%7C%20Antigravity%20%7C%20Cursor%20%7C%20Cline-purple.svg)](#installation)
