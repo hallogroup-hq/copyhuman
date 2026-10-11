@@ -27,6 +27,16 @@ A story that flips all thirty features is a new formula, and a worse one. It rea
 
 **Target the human rate, not the opposite of the AI rate.** Every number in `references/core-features.md` gives both. Use them.
 
+## The third fact: Emotion is friction, not adjectives
+
+When asked to make writing "human" or "emotional", LLMs reflexively inject synthetic melodrama, poetic sentiment, and emotional adjectives (*"secangkir kehangatan"*, *"keringat cinta petani"*, *"terpukul dan hancur"*). That is catastrophic AI slop.
+
+Real human emotion is evoked by **concrete circumstances, real dilemmas, and physical stakes**—never by spoon-feeding emotional adjectives:
+- **In educational/technical courses:** Present the operational dilemma (e.g., harvesting early vs rain rotting cherries) or functional analogies (e.g., green beans with uneven moisture roasting like wet potatoes), not romanticized praise.
+- **In founder/business copy:** State the numbers and deadlines (*"kas sisa Rp14 juta, payroll jatuh tempo Jumat"*) instead of manufactured melodrama (*"saya sangat terpukul dan hancur"*).
+- **In marketing/product copy:** Name the daily friction (*"buka 5 spreadsheet tiap cek stok"*) instead of abstract pain (*"mengakhiri kepenatan dan frustrasi Anda"*).
+- **In narrative/essays:** State feelings plainly (*"dia takut"*) or let physical actions carry it, avoiding the repetitive somatic triad (tight chest, lump in throat, held breath).
+
 ## Three modes
 
 Work out which one applies, then say which one you are running.
@@ -76,7 +86,7 @@ So when you fill in the sheet, write the reason even for the choices where you s
 
 Write the piece from the sheet. While drafting, master these universal hygiene rules:
 
-- **The contrast cadence ban:** STRICTLY BAN the formulaic "Bukan sekadar X, melainkan Y" and "Bukan X tapi Y" cadence. In essays and explanatory writing, LLMs constantly reach for contrastive negation as a rhetorical crutch to create artificial emphasis. Write direct, positive assertions instead.
+- **The contrast cadence & negation tail ban:** STRICTLY BAN the formulaic "Bukan sekadar X, melainkan Y" and "Bukan X tapi Y" cadence. In addition, BAN appending negative trailing clauses at the end of sentences (e.g., *", bukan [kata benda]"* or *", bukan kebetulan teknik"*). State what is true directly and declaratively without leaning on what is not.
 - **The narrative colon ban (`:`):** BAN colons as narrative connectors mid-story (e.g., "Aturannya tanpa kompromi:"). Do not substitute em-dashes with colons. Split thoughts into separate, clean sentences with periods (`.`).
 - **The em-dash tell (`—`):** STRICTLY BANNED in all Indonesian and localized digital copy. The em-dash is a pervasive AI artifact stemming from American editorial training data. Real humans on keyboards and mobile devices reach for commas, parentheses, or clean sentence breaks (`.`). Seeing `—` is an instant dead giveaway.
 - **No decorative bolding:** BAN bolding keywords mid-sentence (`**frasa penting**`). Let the prose carry the weight.
@@ -141,7 +151,7 @@ Do NOT force the 10-decision narrative sheet here (that is for long-form narrati
 - BAN rigid, symmetrical 3-point bullet lists.
 
 ### 5. Cadence, Lexicon & Anti-Savior Transition
-- BAN the formulaic "Bukan sekadar X, melainkan Y" cadence.
+- BAN the formulaic "Bukan sekadar X, melainkan Y" cadence and appended negation tails (*", bukan [X]"*). State positive assertions directly.
 - BAN characteristic LLM buzzwords (*delve, tapestry, testament, beacon, pivotal, crucial, furthermore, elevate* / *menyelami, lentera, esensial, krusial, wadah, tonggak*).
 - BAN outdated agency slang ("zonk") and archaic idioms ("tebak-tebak buah manggis").
 - BAN the Savior Complex: When introducing a brand or product, do not present it as a world-saving hero. Use modest, realistic transitions ("Cherry Edu kami bikin buat bantu di bagian itu").
