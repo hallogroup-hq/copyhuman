@@ -73,12 +73,12 @@ So when you fill in the sheet, write the reason even for the choices where you s
 
 ### Then draft
 
-Write the piece from the sheet. While drafting, the two hardest habits to break are:
+Write the piece from the sheet. While drafting, master these four core rules:
 
-- **Emotion through the body.** Tight chest, cold sweat, throat closing. AI does this 81% of the time versus 38% for humans, the single biggest gap in the whole study. Sometimes just write that she was scared. Humans say the feeling out loud 29% of the time. AI does it 8%.
-- **The closing line that explains.** Cut it. If the last paragraph tells the reader what the story was about, delete the paragraph. Check the second-to-last one too.
-
-Also watch smell. AI reaches for smell in 82% of stories, humans in 57%. Not a rule, just a tic worth noticing.
+- **The somatic proportion rule (Target ~38%, not 0%):** Do not ban physical sensation entirely—humans use it in 38% of stories. The principle is *earned, not reflexive*. Reserve bodily sensations for genuine moments of peak crisis or physical exertion. AI defaults to a repetitive triad: tightening chest, cold sweat, and held breath. Break this: sometimes write plainly that she was scared (humans say the feeling aloud 29% vs AI 8%), and when using physical sensation, tie it to concrete environmental reality (e.g., calloused fingers cramping over a pencil, dry eyes from screen glare).
+- **The closing line that explains:** Cut it. If the last paragraph tells the reader what the story was about or delivers a moral lesson, delete the paragraph. Check the second-to-last one too.
+- **The em-dash tell (`—`):** Banned in conversational, social media, and localized digital copy. The em-dash is a pervasive AI artifact stemming from American editorial training data. Real humans on keyboards and mobile devices rarely reach for em-dashes; they use commas, parentheses, colons, or clean sentence breaks (`.`). Seeing `—` in digital copy is an instant dead giveaway.
+- **Sensory tick (smell):** AI reaches for smell in 82% of stories, humans in 57%. Not a strict rule, just a tic worth catching.
 
 ---
 

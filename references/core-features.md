@@ -42,6 +42,8 @@ AI shows feeling through bodies and weather instead of naming it.
 
 **The single biggest gap in the study is the first row.** 81% versus 38%. Tightening chest, cold sweat, dimming lamplight. Rain during the sad scene. Sunshine when it resolves.
 
+**Operational guidance:** Do not reduce this to 0%. Human writing is not sterile; humans still describe bodily sensations in 38% of stories. The distinction is *earned vs. reflexive*. Humans reserve somatic descriptions for genuine physical trauma, strenuous labor, or peak panic crises, and draw from diverse physical reality (dry throat, cramped hands, aching joints). AI triggers somatic metaphors as a reflex for minor stakes (tight chest when reading an exam question, breath held when hearing a door open).
+
 **What to look for.** Count how many emotions in the draft are delivered as physical sensation versus stated plainly. If it is above roughly two thirds physical, that alone is a strong AI signal.
 
 ---

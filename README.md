@@ -127,6 +127,22 @@ The agent pauses before drafting prose to fill out a **10-Decision Structure She
 
 ---
 
+## 💡 Practical Rules & Real-World AI Tells
+
+Through real-world application across digital marketing, screenwriting, and social media, two additional rules have been established:
+
+### 1. The Punctuation Tell: Banning the Em-Dash (`—`)
+In English literary journals, the em-dash (`—`) is considered an elegant pause. However, in digital copy, social media captions, and localized languages (like Indonesian), **the em-dash is an instant dead giveaway for AI-generated text**. 
+* **The Reality:** Real humans typing on mobile or desktop keyboards rarely go out of their way to input `—`. 
+* **The Rule:** Replace em-dashes with commas, colons, parentheses, or clean, natural sentence splits (`.`).
+
+### 2. The Somatic Proportion Rule: Earned, Not Absent
+* **The Misconception:** If AI overuses physical body sensations (81% of AI stories feature tight chests, cold sweat, or held breath), should we ban somatic descriptions completely?
+* **The Data:** Human authors still use somatic descriptions in **38% of stories**. Complete elimination makes writing sterile and robotic.
+* **The Rule:** Apply physical sensations only when **earned** at peak crisis or genuine physical strain, and draw from diverse, grounded physical reality (e.g., cramped fingers from writing, dry eyes from screens) rather than the generic AI triad of chest/throat/breath.
+
+---
+
 ## 🎯 Prompts & Trigger Phrases
 
 You can invoke CopyHuman naturally in your prompts:
