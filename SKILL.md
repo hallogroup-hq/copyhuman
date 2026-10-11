@@ -27,14 +27,15 @@ A story that flips all thirty features is a new formula, and a worse one. It rea
 
 **Target the human rate, not the opposite of the AI rate.** Every number in `references/core-features.md` gives both. Use them.
 
-## Two modes
+## Three modes
 
 Work out which one applies, then say which one you are running.
 
-- **Mode A, Structure First.** The user wants something written. Run this before drafting.
-- **Mode B, Audit.** A draft already exists. Score it, report it, then restructure what needs it.
+- **Mode A, Structure First.** Long-form narrative (fiction, novels, screenplays, essays). Run the 10-decision Structure Sheet before drafting.
+- **Mode B, Narrative Audit.** A long-form draft already exists. Score it against the 30 StoryScope features, report it, then restructure what needs it.
+- **Mode C, Short-Form & Promotional Copy.** Social media captions (Instagram, LinkedIn, X), ads, founder posts, and short promotional narratives. Executes the 6-pillar micro-copy engine directly without forcing a 10-decision narrative sheet.
 
-If the user hands you a draft and asks for something new in the same style, run B on the draft first, then A on the new piece.
+If the user hands you a draft and asks for something new in the same style, run B on the draft first, then A (or C) on the new piece.
 
 ---
 
@@ -110,16 +111,53 @@ Never present a reworded sentence as a fix for a structural problem.
 
 ---
 
+## Mode C: Short-Form & Promotional Copy (Captions, Ads, Founder Posts)
+
+Use this mode whenever writing social media captions (Instagram, LinkedIn, X), short ad copy, emails, and promotional narratives. 
+
+Do NOT force the 10-decision narrative sheet here (that is for long-form narrative). Instead, enforce this unified 6-pillar micro-copy engine:
+
+### 1. The Hook: Grounded Reality & Named Specificity
+- BAN rhetorical opening questions ("Pernahkah Anda...?", "Mau belajar X tapi bingung...?").
+- BAN manufactured hyperbole: Do not invent melodramatic panics over trivial variables (e.g., panicking because water temperature dropped 2 degrees). Ground the opening friction in real, everyday human experience.
+- Name real entities: BAN vague placeholders ("sebuah platform", "alat canggih", "suatu masalah"). Name actual tools, platforms, real metrics, prices, and concrete environments (e.g., *grinder, rasio 1:15, ketel, Rp150 ribu*).
+
+### 2. Anti-Over-Specification (Conversational Shorthand)
+- When context is clear, do NOT use catalog-level compound nouns. 
+- Use natural conversational shorthand (e.g., write "ketel" instead of "ketel leher angsa"; "kacamata" instead of "kacamata pelindung radiasi"). Real practitioners on social media do not talk like equipment manuals.
+
+### 3. Human Observational Warmth & Somatic Baseline
+- Measure human comfort and skill through observational warmth ("gerakannya udah mulai santai", "udah biasa nyeduh"), never mechanical evaluative grading ("gerakannya sudah rapi", "kinerjanya optimal").
+- Keep physical sensations grounded in the ~38% human baseline: only use somatic descriptions when earned by real physical exertion, and avoid the generic AI triad of tight chests, lumps in throat, or held breath.
+
+### 4. Punctuation, Digits & Formatting Hygiene
+- STRICTLY BAN the em-dash (`—`).
+- BAN colons (`:`) as narrative connectors. Do not substitute em-dashes with colons. Split thoughts into separate, clean sentences with periods (`.`).
+- Use natural digits for numbers in casual digital copy ("30 detik", "2 derajat", "Rp150 rb") instead of spelling them out like print literature ("tiga puluh detik").
+- BAN decorative bolding in mid-sentence (`**frasa penting**`).
+- BAN rigid, symmetrical 3-point bullet lists.
+
+### 5. Cadence, Lexicon & Anti-Savior Transition
+- BAN the formulaic "Bukan sekadar X, melainkan Y" cadence.
+- BAN characteristic LLM buzzwords (*delve, tapestry, testament, beacon, pivotal, crucial, furthermore, elevate* / *menyelami, lentera, esensial, krusial, wadah, tonggak*).
+- BAN outdated agency slang ("zonk") and archaic idioms ("tebak-tebak buah manggis").
+- BAN the Savior Complex: When introducing a brand or product, do not present it as a world-saving hero. Use modest, realistic transitions ("Cherry Edu kami bikin buat bantu di bagian itu").
+
+### 6. Dry, Actionable Closures (No Moralizing & No Bot Residue)
+- Cut any concluding sermons, preachy life lessons, or motivational clichés ("Karena sukses butuh proses...").
+- BAN chatbot conversational residue ("Semoga bermanfaat!", "Simak ulasannya berikut ini").
+- Close with a straightforward, natural action step or leave the thought standing cleanly.
+
+---
+
 ## Scope limits, state these when they apply
 
 The study measured short stories averaging 4,753 words. The findings are strongest there.
 
-- **Feature films and novels.** Applies well. Same narrative machinery, more of it.
-- **Short scripts and short films.** Applies, with care. A five-page script has no room for a subplot, so decision 2 mostly resolves to "none" and that is fine, not an AI tell.
-- **Reel scripts, captions, LinkedIn posts, ad copy.** Applies partially. The findings that transfer are the moral statement, the emotion delivery, and the named-versus-vague reference. Timeline, subplots, and resolution mode mostly do not apply at sixty seconds. Say so rather than forcing all ten.
+- **Feature films and novels.** Handled via **Mode A**.
+- **Short scripts and short films.** Handled via **Mode A**, with care. A five-page script has no room for a subplot, so decision 2 mostly resolves to "none" and that is fine, not an AI tell.
+- **Reel scripts, captions, LinkedIn posts, ad copy.** Handled natively via **Mode C**. Do not force the 10-decision narrative sheet on short copy; execute the 6-pillar micro-copy engine instead.
 - **Documentary, tutorial, and explainer scripts.** Explaining the point is the job. Decision 5 does not apply. Decisions 6, 8, and 10 still do.
-
-Do not pretend the whole framework fits a caption. It does not, and claiming otherwise is the kind of thing that gets caught.
 
 ## Model fingerprints
 

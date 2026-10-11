@@ -94,7 +94,7 @@ Or copy `SKILL.md` directly into your workspace rules (`.cursorrules`, `.clineru
 
 ## ⚡ How It Works
 
-CopyHuman operates in two distinct modes:
+CopyHuman operates in three distinct modes:
 
 ### Mode A: Structure First (Pre-Drafting)
 *Trigger when writing a new story, screenplay, scene, video script, or essay.*
@@ -124,6 +124,17 @@ The agent pauses before drafting prose to fill out a **10-Decision Structure She
    - **Structural** (*moves the needle*): Ending causes, unearned revelations, moralizing conclusions, sensory distribution.
    - **Cosmetic** (*does not move detection*): Synonyms, rhythm, adjective trimming.
 3. **Restructures, Not Rewords**: Delivers actionable scene changes and structural fixes.
+
+### Mode C: Short-Form & Promotional Copy (Captions, Ads, Founder Posts)
+*Trigger on: `"Write an Instagram caption using copyhuman"`, `"Create ad copy with copyhuman"`, `"Mode C"`*
+
+Short copy does not need a 10-decision narrative sheet. Instead, Mode C enforces a unified **6-Pillar Anti-Slop Engine**:
+1. **Grounded Reality & Named Entities**: Bans rhetorical questions and manufactured hyperbole. Names real tools, platforms, and prices.
+2. **Conversational Shorthand**: Bans catalog-level compound nouns (*ketel* instead of *ketel leher angsa*).
+3. **Observational Warmth**: Measures familiarity and comfort (*"udah mulai santai"*), not mechanical evaluative grading.
+4. **Punctuation & Formatting Hygiene**: Strictly bans em-dashes (`—`) and narrative colons (`:`). Uses digits for numbers. Bans decorative bolding.
+5. **Cadence & Lexicon Hygiene**: Bans "Bukan sekadar X, tapi Y", LLM buzzwords (*delve, tapestry, menyelami*), and Savior Complex marketing transitions.
+6. **Dry, Actionable Closures**: Bans preachy moral conclusions and chatbot conversational wrappers (*"Semoga bermanfaat!"*).
 
 ---
 
