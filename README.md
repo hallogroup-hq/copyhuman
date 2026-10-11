@@ -152,6 +152,11 @@ You can invoke CopyHuman naturally in your prompts:
 * *"Why does this narrative feel flat and machine-generated? Fix the structural tells."*
 * *"Make this narrative sound human, don't just change the words."*
 
+> [!TIP]
+> **If your AI agent skips the Structure Sheet (Mode A):**  
+> Some AI agents occasionally guess how to write "human" text without reading the skill file. If your agent drafts text immediately without presenting the 10-decision table, explicitly prompt:  
+> `👉 "Read the copyhuman SKILL.md file and output the Mode A Structure Sheet before writing any prose."`
+
 ---
 
 ## 📁 Repository Structure
