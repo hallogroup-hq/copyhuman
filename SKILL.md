@@ -74,11 +74,14 @@ So when you fill in the sheet, write the reason even for the choices where you s
 
 ### Then draft
 
-Write the piece from the sheet. While drafting, master these four core rules:
+Write the piece from the sheet. While drafting, master these universal hygiene rules:
 
+- **The contrast cadence ban:** STRICTLY BAN the formulaic "Bukan sekadar X, melainkan Y" and "Bukan X tapi Y" cadence. In essays and explanatory writing, LLMs constantly reach for contrastive negation as a rhetorical crutch to create artificial emphasis. Write direct, positive assertions instead.
+- **The narrative colon ban (`:`):** BAN colons as narrative connectors mid-story (e.g., "Aturannya tanpa kompromi:"). Do not substitute em-dashes with colons. Split thoughts into separate, clean sentences with periods (`.`).
+- **The em-dash tell (`—`):** STRICTLY BANNED in all Indonesian and localized digital copy. The em-dash is a pervasive AI artifact stemming from American editorial training data. Real humans on keyboards and mobile devices reach for commas, parentheses, or clean sentence breaks (`.`). Seeing `—` is an instant dead giveaway.
+- **No decorative bolding:** BAN bolding keywords mid-sentence (`**frasa penting**`). Let the prose carry the weight.
 - **The somatic proportion rule (Target ~38%, not 0%):** Do not ban physical sensation entirely—humans use it in 38% of stories. The principle is *earned, not reflexive*. Reserve bodily sensations for genuine moments of peak crisis or physical exertion. AI defaults to a repetitive triad: tightening chest, cold sweat, and held breath. Break this: sometimes write plainly that she was scared (humans say the feeling aloud 29% vs AI 8%), and when using physical sensation, tie it to concrete environmental reality (e.g., calloused fingers cramping over a pencil, dry eyes from screen glare).
 - **The closing line that explains:** Cut it. If the last paragraph tells the reader what the story was about or delivers a moral lesson, delete the paragraph. Check the second-to-last one too.
-- **The em-dash tell (`—`):** Banned in conversational, social media, and localized digital copy. The em-dash is a pervasive AI artifact stemming from American editorial training data. Real humans on keyboards and mobile devices rarely reach for em-dashes; they use commas, parentheses, colons, or clean sentence breaks (`.`). Seeing `—` in digital copy is an instant dead giveaway.
 - **Sensory tick (smell):** AI reaches for smell in 82% of stories, humans in 57%. Not a strict rule, just a tic worth catching.
 
 ---
@@ -157,7 +160,12 @@ The study measured short stories averaging 4,753 words. The findings are stronge
 - **Feature films and novels.** Handled via **Mode A**.
 - **Short scripts and short films.** Handled via **Mode A**, with care. A five-page script has no room for a subplot, so decision 2 mostly resolves to "none" and that is fine, not an AI tell.
 - **Reel scripts, captions, LinkedIn posts, ad copy.** Handled natively via **Mode C**. Do not force the 10-decision narrative sheet on short copy; execute the 6-pillar micro-copy engine instead.
-- **Documentary, tutorial, and explainer scripts.** Explaining the point is the job. Decision 5 does not apply. Decisions 6, 8, and 10 still do.
+- **Educational, curriculum, and explainer lessons (e.g., Cherry Edu, history & technical guides).** Explaining concepts is the primary goal, so Decision 5 (moral meaning) does not apply in the narrative sense, but follow these strict pedagogical constraints:
+  - **No Didactic Career Preaching:** Never end lessons with formulaic practitioner tips or unsolicited career advice ("Bagi seorang barista: 1... 2..."). Anchor the takeaway directly to tangible, technical, or physical reality today (e.g., plant genetics, cupping table flavor profiles, or machine calibration).
+  - **Documentary Narrative Flow:** Write history and theory like an engaging documentary or historical non-fiction book, not an exam review sheet or slide presentation. Avoid mid-story bullet lists and narrative colons.
+  - **Domain Jargon vs AI Buzzwords:**
+    - BAN synthetic LLM filler metaphors (*menyelami, lentera, wadah, tonggak, esensial, krusial, denyut nadi*).
+    - PROTECT authentic industry & historical terminology (*"emas hitam"* in colonial trade history, *cupping*, *wet hulling*, *pulping*). Real practitioner vocabulary must never be over-filtered.
 
 ## Model fingerprints
 
